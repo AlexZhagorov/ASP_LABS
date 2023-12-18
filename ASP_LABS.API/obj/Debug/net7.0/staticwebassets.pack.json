@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\5sem\\ASP_LABS\\ASP_LABS.API\\wwwroot\\images\\ThirdTitle.jpg",
+      "PackagePath": "staticwebassets\\images\\ThirdTitle.jpg"
+    },
+    {
+      "Id": "D:\\5sem\\ASP_LABS\\ASP_LABS.API\\wwwroot\\images\\cmj1egig.jpg",
+      "PackagePath": "staticwebassets\\images\\cmj1egig.jpg"
+    },
+    {
+      "Id": "D:\\5sem\\ASP_LABS\\ASP_LABS.API\\wwwroot\\images\\ddimbxbt.jpg",
+      "PackagePath": "staticwebassets\\images\\ddimbxbt.jpg"
+    },
+    {
+      "Id": "D:\\5sem\\ASP_LABS\\ASP_LABS.API\\wwwroot\\images\\default-profile-picture.png",
+      "PackagePath": "staticwebassets\\images\\default-profile-picture.png"
+    },
+    {
+      "Id": "D:\\5sem\\ASP_LABS\\ASP_LABS.API\\wwwroot\\images\\fhv1lhvd.png",
+      "PackagePath": "staticwebassets\\images\\fhv1lhvd.png"
+    },
+    {
+      "Id": "D:\\5sem\\ASP_LABS\\ASP_LABS.API\\wwwroot\\images\\kfbkq4es.jpg",
+      "PackagePath": "staticwebassets\\images\\kfbkq4es.jpg"
+    },
+    {
+      "Id": "D:\\5sem\\ASP_LABS\\ASP_LABS.API\\wwwroot\\images\\nnmpj1ky.jpg",
+      "PackagePath": "staticwebassets\\images\\nnmpj1ky.jpg"
+    },
+    {
+      "Id": "D:\\5sem\\ASP_LABS\\ASP_LABS.API\\wwwroot\\images\\rmfndmpd.png",
+      "PackagePath": "staticwebassets\\images\\rmfndmpd.png"
+    },
+    {
+      "Id": "D:\\5sem\\ASP_LABS\\ASP_LABS.API\\wwwroot\\images\\yvn2ujgu.jpg",
+      "PackagePath": "staticwebassets\\images\\yvn2ujgu.jpg"
+    },
+    {
+      "Id": "D:\\5sem\\ASP_LABS\\ASP_LABS.API\\wwwroot\\images\\zixhwu4s.jpg",
+      "PackagePath": "staticwebassets\\images\\zixhwu4s.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ASP_LABS.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ASP_LABS.API.props",
+      "PackagePath": "build\\ASP_LABS.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ASP_LABS.API.props",
+      "PackagePath": "buildMultiTargeting\\ASP_LABS.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ASP_LABS.API.props",
+      "PackagePath": "buildTransitive\\ASP_LABS.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

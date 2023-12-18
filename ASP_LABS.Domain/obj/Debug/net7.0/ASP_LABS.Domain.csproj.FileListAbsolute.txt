@@ -1,0 +1,12 @@
+D:\5sem\ASP_LABS\ASP_LABS.Domain\bin\Debug\net7.0\ASP_LABS.Domain.deps.json
+D:\5sem\ASP_LABS\ASP_LABS.Domain\bin\Debug\net7.0\ASP_LABS.Domain.dll
+D:\5sem\ASP_LABS\ASP_LABS.Domain\bin\Debug\net7.0\ASP_LABS.Domain.pdb
+D:\5sem\ASP_LABS\ASP_LABS.Domain\obj\Debug\net7.0\ASP_LABS.Domain.csproj.AssemblyReference.cache
+D:\5sem\ASP_LABS\ASP_LABS.Domain\obj\Debug\net7.0\ASP_LABS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\5sem\ASP_LABS\ASP_LABS.Domain\obj\Debug\net7.0\ASP_LABS.Domain.AssemblyInfoInputs.cache
+D:\5sem\ASP_LABS\ASP_LABS.Domain\obj\Debug\net7.0\ASP_LABS.Domain.AssemblyInfo.cs
+D:\5sem\ASP_LABS\ASP_LABS.Domain\obj\Debug\net7.0\ASP_LABS.Domain.csproj.CoreCompileInputs.cache
+D:\5sem\ASP_LABS\ASP_LABS.Domain\obj\Debug\net7.0\ASP_LABS.Domain.dll
+D:\5sem\ASP_LABS\ASP_LABS.Domain\obj\Debug\net7.0\refint\ASP_LABS.Domain.dll
+D:\5sem\ASP_LABS\ASP_LABS.Domain\obj\Debug\net7.0\ASP_LABS.Domain.pdb
+D:\5sem\ASP_LABS\ASP_LABS.Domain\obj\Debug\net7.0\ref\ASP_LABS.Domain.dll

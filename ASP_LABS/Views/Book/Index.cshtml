@@ -1,0 +1,23 @@
+﻿@model ListModel<Book>
+@{
+}
+
+<h1>Каталог Книг</h1>
+<!-- Выбор жанра -->
+<div class="dropdown">
+	<a class="btn btn-secondary dropdown-toggle" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+		@ViewBag.CurrentGenre
+	</a>
+
+	<ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+		<li><a class="dropdown-item" asp-controller="Book" asp-action="Index" asp-route-genre="all">All</a></li>
+		@foreach(var genre in ViewBag.Genres.Items)
+		{
+			<li><a class="dropdown-item" asp-controller="Book" asp-action="Index" asp-route-genre="@genre.NormalizedName">@genre.Name</a></li>
+		}
+	</ul>
+</div>
+
+<div id="partialData">
+	<partial name="_BooksPartial" />
+</div>

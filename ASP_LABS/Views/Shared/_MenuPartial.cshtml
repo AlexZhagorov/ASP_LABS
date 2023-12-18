@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var controller = ViewContext.RouteData.Values["controller"]?
+        .ToString()?
+        .ToLower()
+        ?? String.Empty;
+    var action = ViewContext.RouteData.Values["action"]?
+        .ToString()?
+        .ToLower()
+        ?? String.Empty;
+}
+
+
+<a class="navbar-brand" href="/Home">ASP LABS</a>
+<div class="navbar-nav">
+    <a class="nav-item nav-link active" asp-controller="Home" asp-action="Lab_1">ЛР 1 @(controller == "home" && action == "lab_1" ? "active" : "")</a>
+    <a class="nav-item nav-link" asp-controller="Book" asp-action="Index" asp-route-genre="all" asp-route-page="1">Каталог @(controller == "book" && action == "index" ? "active" : "")</a>
+    <a class="nav-item nav-link" asp-area="Admin" asp-page="/Index">Администрирование</a>
+</div>
+
+
